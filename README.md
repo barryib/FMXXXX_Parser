@@ -1,7 +1,7 @@
 FMXXXX Parser
 =============
 
-Simple Parser interface for Teltonika's FMXXXX GPS device in PHP.
+Simple Parser interface for [Teltonika's FMXXXX GPS device](http://www.teltonika.lt/en/pages/view/?id=10) in PHP.
 
 To use this library:
 + copy the FMXXXX_Parser directory into the working space
